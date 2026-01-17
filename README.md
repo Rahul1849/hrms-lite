@@ -1,6 +1,24 @@
 # HRMS Lite - Full-Stack Employee & Attendance Management System
 
-A production-ready, lightweight HRMS application built with React and FastAPI for managing employees and attendance records.
+A lightweight yet production-ready HRMS (Human Resource Management System) built using React (Vite) and FastAPI, designed to manage employees, attendance records, and system-wide summaries efficiently.
+Note on Deployment:
+Due to free-tier hosting limitations and a strict time constraint, the frontend is deployed on Netlify, while the backend is demonstrated running locally.
+All features work fully and correctly in a local setup, and the backend is deployment-ready without code changes.
+
+🌐 Live Demo
+✅ Frontend (Netlify)
+
+🔗 https://hrms-lite.netlify.app/
+
+The frontend is fully functional and production-built.
+
+⚙️ Backend
+
+Runs locally at: http://localhost:8000
+
+All APIs are fully implemented, tested, and documented
+
+Swagger docs available at: http://localhost:8000/docs
 
 ## 🚀 Tech Stack
 
@@ -342,3 +360,9 @@ This project is built as a coding assignment.
 - Proper error handling and validation throughout
 - Responsive design for mobile and desktop
 - Follows best practices for React and FastAPI
+
+👨‍💻 Author
+
+Rahul Kumar
+Full-Stack Developer
+This project was built as a technical assignment.
